@@ -3,9 +3,10 @@ Attention-Guided Hierarchical Fusion U-Net for Uncertainty-driven Medical Image 
 # Attention-Guided Hierarchical Fusion U-Net for Uncertainty-driven Medical Image Segmentation
 
 ## Description
-This repository contains the code for the paper titled **"Attention-Guided Hierarchical Fusion U-Net for Uncertainty-driven Medical Image Segmentation"**. In this paper, we propose two versions of a network:
-1. A regular segmentation network.
-2. An uncertainty-aware segmentation network.
+This repository contains the code for the paper titled **"Attention-Guided Hierarchical Fusion U-Net for Uncertainty-driven Medical Image Segmentation."** In this paper, we propose two versions of the network, and both versions of the code are provided in this repository:
+
+- A regular segmentation network.
+- An uncertainty-aware segmentation network.
 
 The base code for the U-Net architecture was adapted from the following GitHub repository:  
 [https://github.com/milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)

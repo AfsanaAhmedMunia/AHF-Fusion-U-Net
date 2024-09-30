@@ -32,5 +32,5 @@ import cv2
 
 To install the required libraries in your environment, you can use the following command:
 
-```python
 pip install numpy matplotlib imutils scikit-learn torch torchvision opencv-python
+

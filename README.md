@@ -29,7 +29,7 @@ from torchvision.transforms import CenterCrop
 from torch.utils.data import DataLoader, Dataset
 import os
 import cv2
-```python
+```
 
 To install the required libraries in your environment, you can use the following command:
 
